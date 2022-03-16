@@ -1,0 +1,6 @@
+https://www.hugochaume.com/blog/integration-web/integration-dinterface-utilisateur-avec-react/
+
+L'articolo parla di React, una libreria Javascript sotto licenza libera sviluppata da Facebook
+e usata da altre applicazioni e del suo uso per integrare le interfaccie. La libreria usa un 
+DOM virtuale col quale aggiorna il rendering nel browser solo quando serve, cioè solo la parte 
+della pagina che cambia (nuovi dati appaiono o vengono modificati) viene aggiornata sul lato utente
